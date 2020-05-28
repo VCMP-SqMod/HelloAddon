@@ -1,0 +1,11 @@
+# Executables
+*.exe
+*.dll
+*.so
+
+# Leftovers
+*.[Oo]bj
+*.[Pp]ch
+
+# Hidden files and folders
+.*
